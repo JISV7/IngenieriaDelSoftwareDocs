@@ -5,4 +5,7 @@
 # config dir
 .obsidian/
 
+### Syncthing ###
+.stfolder/
+
 # End of https://www.toptal.com/developers/gitignore/api/obsidian
