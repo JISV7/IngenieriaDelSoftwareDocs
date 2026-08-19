@@ -109,3 +109,20 @@ Pricing:
 - Prueba gratuita de 14 días (sin requerir tarjeta de crédito).
 - Opción de compra de licencia de por vida (pago único).
 - Opciones de suscripción mensual o anual disponibles.
+
+Project Gameface:
+Pros:
+- Control manos libres del cursor mediante movimientos de cabeza y gestos faciales (ej. cejas para clic/arrastrar, boca para mover).
+- Código abierto (open-source) y gratuito, desarrollado en colaboración con usuarios con discapacidad motriz.
+- Altamente personalizable: permite ajustar umbrales de gestos, velocidad del cursor y sensibilidad usando MediaPipe Blendshapes (52 expresiones faciales).
+- Disponible para Android, ampliando su uso a entornos educativos, laborales y de comunicación cotidiana.
+- Soporta acciones globales de Android (Inicio, Atrás, Notificaciones, Todas las apps).
+- Incluye una superposición flotante de la cámara para facilitar la calibración y confirmar que el seguimiento está activo.
+- Permite la función de "arrastrar" (drag) definiendo puntos de inicio y fin, superando limitaciones nativas del servicio de accesibilidad de Android.
+Contras:
+- Depende completamente del rendimiento y calidad de la cámara frontal del dispositivo y de la API de MediaPipe.
+- La función de arrastre se ejecuta definiendo puntos de inicio y fin, no como un arrastre continuo en tiempo real.
+- Requiere una configuración inicial y calibración de umbrales faciales que puede tener una curva de aprendizaje.
+- El texto se centra en la expansión a Android; la integración en otros ecosistemas puede requerir desarrollo adicional.
+Pricing:
+- Gratuito y Open Source.
