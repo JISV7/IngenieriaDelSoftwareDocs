@@ -1,0 +1,48 @@
+Jabberwocky - Swiftable:
+Pros:
+-Permite hacer clic, mantener pulsado y realizar gestos complejos (scroll/swipe) con la cara (guiños o boca).
+-El cursor se activa o desactiva fácilmente sacudiendo la cabeza, evitando toques accidentales al hablar o ver videos.
+-No impide la interacción física normal con la pantalla si el usuario tiene movilidad residual.
+-Previene que la pantalla se apague por inactividad y permite desbloquear el dispositivo.
+-Es compatible con comandos de voz, especialmente si se usa el guiño para interactuar.
+Contras:
+-El cursor se mueve con el movimiento de la cabeza (nariz), no con la mirada, lo que puede ser menos preciso o causar fatiga.
+-Requiere práctica y control fino para mantener el cursor completamente quieto antes de intentar un toque.
+-Puede interpretar erróneamente un toque como un deslizamiento o pulsación larga si hay movimiento o el gesto se prolonga.
+-El uso de gafas puede dificultar la detección del guiño, obligando a cambiar a gestos con la boca.
+-Si se configura la interacción con la boca, es necesario desactivar el cursor manualmente para usar comandos de voz sin interferencias.
+Pricing:
+- Gratis
+
+SensePilot:
+Pros:
+- Usa IA para mapear la orientación facial y reconocer gestos individuales.
+- Control del mouse manos libres mediante seguimiento de cabeza.
+- Funciona con la webcam y micrófono existente.
+- Permite personalizar las entradas y el reconocimiento de voz según las capacidades del usuario.
+- Fácil instalación, interfaz amigable y ofrece prueba gratuita de 30 días.
+- Versátil para gaming, uso general de PC y personas con movilidad reducida.
+Contras:
+- Es un software de pago (suscripción mensual/anual o costo único elevado de por vida).
+- Depende directamente de la calidad de la webcam y el micrófono del usuario.
+- El seguimiento facial puede fallar con mala iluminación o si el rostro sale del encuadre.
+Pricing:
+- Prueba gratuita de 30 días.
+- Plan mensual: 9 €.
+- Plan anual: 99 €.
+- Plan de por vida: 299 € (pago único).
+
+ManoMotion:
+Pros:
+- Usa IA predictiva para seguridad industrial, previniendo accidentes antes de que ocurran.
+- Control por gestos sin contacto.
+- Seguimiento de gestos de cuerpo completo y de manos en tiempo real para múltiples usuarios.
+- Solución basada únicamente en software, funciona con una sola cámara en cualquier dispositivo.
+- Alta versatilidad: aplicable en maquinaria industrial, automoción, espacios de trabajo, robótica colaborativa y realidad extendida (XR/VR/AR).
+Contras:
+- Enfocado principalmente en entornos industriales y empresariales (B2B), no en asistencia personal directa para el usuario final.
+- Depende críticamente de la calidad, calibración y posición de la cámara para el seguimiento en tiempo real.
+- La integración en sistemas de maquinaria pesada o automoción puede ser compleja.
+- No se menciona soporte para interacción fina o de precisión (como un puntero de mouse), sino control por gestos macro.
+Pricing:
+- No especificado, pero es necesario registrarse y pedir mas informacion.
