@@ -46,3 +46,19 @@ Contras:
 - No se menciona soporte para interacción fina o de precisión (como un puntero de mouse), sino control por gestos macro.
 Pricing:
 - No especificado, pero es necesario registrarse y pedir mas informacion.
+
+NonMouse:
+Pros:
+- Solo requiere una webcam y una PC, sin necesidad de hardware especializado.
+- Funciona bien de forma simultánea con el uso del teclado.
+- Se activa con una tecla de acceso rápido global incluso si la aplicación está inactiva (Windows y macOS).
+- Admite múltiples configuraciones de cámara (frontal, superior o trasera) para adaptarse al entorno.
+- Permite controlar el cursor, clic izquierdo, clic derecho y scroll mediante gestos específicos de los dedos.
+- Es de código abierto, gratuito y fácil de instalar (archivo ejecutable o vía PyPI).
+Contras:
+- Depende críticamente de una buena iluminación y de mantener la mano recta frente a la cámara.
+- El clic derecho es lento, ya que requiere mantener el gesto 1.5 segundos sin mover el cursor.
+- La función de acceso rápido global no está disponible en Linux.
+- El soporte completo y las funciones principales están limitados a Windows y macOS.
+Pricing:
+- Gratuito y Open Source.
