@@ -91,3 +91,21 @@ Pricing:
 Accesorios: Montura Laptop o VESA ($165.00 c/u), Garantía/Soporte/Actualizaciones 3 años ($350.00), Remote Viewer Software ($595.00).
 Software Only: Analysis Professional Edition ($1,295.00), Analysis UX Edition ($1,595.00).
 Pago único, sin tarifas recurrentes ni suscripciones obligatorias.
+
+Smyle Mouse:
+Pros:
+- Control del mouse manos libres mediante movimientos de cabeza (puntero/scroll) y gestos faciales (sonrisa o boca abierta para hacer clic).
+- Utiliza únicamente la webcam existente, sin necesidad de hardware especial, wearables, pegatinas o interruptores físicos.
+- Funciona en interiores y exteriores (incluso con luz solar brillante) gracias a algoritmos avanzados de procesamiento de imágenes.
+- Altamente configurable: modos de apuntado absoluto (nariz) y relativo, re-centrado, congelado del puntero, atajos de teclado globales y gestión ilimitada de perfiles de usuario.
+- Incluye funcionalidades de mouse de cabeza, clic por sonrisa, clic por permanencia (dwell) y emulador de interruptor adaptativo.
+- Requisitos de hardware modestos (webcam 480x240, CPU dual-core 1.5GHz, 4GB RAM) y la calibración es opcional (solo 10 segundos recomendados).
+Contras:
+- Actualmente solo es compatible con el sistema operativo Microsoft Windows (7 en adelante). No hay soporte para Android, iOS o macOS.
+- La licencia de software se bloquea a un solo dispositivo (aunque permite hasta 3 reemplazos de por vida si el equipo se daña, con un máximo de 1 al año).
+- Las claves de licencia de versiones antiguas (v2.x) no son compatibles con la versión actual del software (v3.x).
+- Depende de la detección de gestos faciales, lo que podría generar fatiga muscular o falsos positivos si no se ajustan bien los niveles de sensibilidad.
+Pricing:
+- Prueba gratuita de 14 días (sin requerir tarjeta de crédito).
+- Opción de compra de licencia de por vida (pago único).
+- Opciones de suscripción mensual o anual disponibles.
