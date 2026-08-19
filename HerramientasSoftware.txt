@@ -62,3 +62,32 @@ Contras:
 - El soporte completo y las funciones principales están limitados a Windows y macOS.
 Pricing:
 - Gratuito y Open Source.
+
+Gazepoint:
+Pros:
+- Solución de eye-tracking de grado de investigación a precio accesible.
+- Sin costos de licencia adicionales para uso comercial.
+- API/SDK abierto, fácil de implementar vía TCP/IP en múltiples lenguajes.
+- Proporciona datos biométricos ricos: mirada, posición de cabeza, diámetro pupilar, parpadeo, frecuencia cardíaca y respuesta galvánica (GSR).
+- Versátil para neuromarketing, investigación UX, diagnósticos médicos y comunicación alternativa (AAC).
+Contras:
+- Requiere hardware específico (Intel Core i5, 8GB RAM, USB 3.0).
+- Compatibilidad de sistema operativo limitada principalmente a Windows (7, 8.1, 10).
+- Necesita calibración y un montaje físico estable para mantener la precisión de los datos.
+- Enfocado en investigación y análisis, no como reemplazo directo de mouse para el usuario general.
+Pricing:
+- GP3 Eye Tracker (Hardware): $985.00
+- GP3 Professional Bundle: Desde $2,280.00
+- GP3 UX Bundle: Desde $2,580.00
+- GP3 Ultimate Bundle: $2,990.00
+- GP3 HD Eye Tracker 150Hz (Hardware): $2,650.00
+- GP3 HD Professional Bundle: Desde $3,945.00
+- GP3 HD UX Bundle: Desde $4,245.00
+- GP3 HD Ultimate Bundle: $4,350.00
+- Biometrics Hardware Only: $890.00
+- Biometrics SD Bundle: $3,550.00
+- Biometrics HD Bundle: $4,950.00
+- GP3-Mobile Eye Tracking System: $4,850.00
+Accesorios: Montura Laptop o VESA ($165.00 c/u), Garantía/Soporte/Actualizaciones 3 años ($350.00), Remote Viewer Software ($595.00).
+Software Only: Analysis Professional Edition ($1,295.00), Analysis UX Edition ($1,595.00).
+Pago único, sin tarifas recurrentes ni suscripciones obligatorias.
